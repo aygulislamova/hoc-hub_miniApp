@@ -2,7 +2,7 @@
   "name": "hoc-hub",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aygulislamova.github.io/<repository>/",
+  "homepage": "https://aygulislamova.github.io/hoc-hub_miniApp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
